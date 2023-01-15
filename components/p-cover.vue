@@ -13,7 +13,7 @@
         </v-row>
 
         <v-row class="mb-1" justify="center">
-          <p class="ma-0 text-subtitle-1 text-sm-h5 font-weight-regular black--text text-center">Lágmúla 7, 5 hæð</p>
+          <p class="ma-0 text-subtitle-1 text-sm-h5 font-weight-regular black--text text-center">Lágmúla 7, 5. hæð</p>
         </v-row>
 
         <v-row class="mt-15" justify="center">

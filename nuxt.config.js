@@ -6,6 +6,9 @@ export default {
   head: {
     titleTemplate: 'HRR lögmannsþjónusta',
     title: "HRR lögmannsþjónusta",
+    htmlAttrs: {
+      lang: 'is'
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -15,7 +18,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/gavel.png' }
     ]
   },
-
+  
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/global.css',
